@@ -1,16 +1,68 @@
 ## Hi there 👋
 
-<!--
-**soroushmhd/soroushmhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer passionate about
 
-Here are some ideas to get you started:
+- Open Source
+- Linux
+- Docker
+- Kubernetes
+- Zabbix
+- Prometheus
+- High Availability
+- PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🚀 Open Source
+
+✔ Contributor to Zabbix Community Templates
+
+Merged contribution:
+
+- Mattermost by HTTP Template
+
+Repository:
+
+https://github.com/zabbix/community-templates
+
+---
+
+---
+
+## 📦 Personal Projects
+
+### Production Zabbix HA Stack
+
+Highly Available Zabbix architecture including:
+
+- Patroni
+- PostgreSQL
+- etcd
+- Keepalived
+- HAProxy
+
+Repository:
+
+https://github.com/soroushmhd/production-zabbix-ha-stack
+
+---
+
+## 🛠 Technologies
+
+- Linux
+- Docker
+- Kubernetes
+- PostgreSQL
+- Patroni
+- etcd
+- Zabbix
+- Grafana
+- Git
+- GitHub Actions
+
+---
+
+## 📫 Contact
+
+www.linkedin.com/in/soroush-mehmandoust
