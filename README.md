@@ -22,9 +22,13 @@ Merged contribution:
 
 - Mattermost by HTTP Template
 
-Repository:
+Repository
 
-https://github.com/zabbix/community-templates
+https://github.com/zabbix/community-templates/tree/main/Applications/template_mattermost_http/7.0
+
+Merged Pull Request
+
+https://github.com/zabbix/community-templates/pull/744
 
 ---
 
