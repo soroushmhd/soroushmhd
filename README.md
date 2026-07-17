@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Senior DevOps & Linux Engineer with 10+ years of experience building highly available infrastructure, automating operations, and operating large-scale production environments.
+Senior DevOps & Linux Engineer with 10+ years of experience designing, automating, and operating highly available production infrastructure.
 
 - Kubernetes
 - Linux
@@ -20,7 +20,7 @@ Senior DevOps & Linux Engineer with 10+ years of experience building highly avai
 
 ## 🚀 Open Source
 
-✔ Contributor to Zabbix Community Templates
+✔ Contributor to the official Zabbix Community Templates project.
 
 Merged contribution:
 
