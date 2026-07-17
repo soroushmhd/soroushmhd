@@ -1,15 +1,19 @@
 ## Hi there 👋
 
-DevOps Engineer passionate about
+Senior DevOps & Linux Engineer with 10+ years of experience building highly available infrastructure, automating operations, and operating large-scale production environments.
 
-- Open Source
+- Kubernetes
 - Linux
 - Docker
-- Kubernetes
-- Zabbix
-- Prometheus
-- High Availability
 - PostgreSQL
+- Patroni
+- Ansible
+- Prometheus
+- Grafana
+- Zabbix
+- High Availability
+- Infrastructure Automation
+- Observability
 
 
 ---
@@ -50,20 +54,6 @@ Repository:
 
 https://github.com/soroushmhd/production-zabbix-ha-stack
 
----
-
-## 🛠 Technologies
-
-- Linux
-- Docker
-- Kubernetes
-- PostgreSQL
-- Patroni
-- etcd
-- Zabbix
-- Grafana
-- Git
-- GitHub Actions
 
 ---
 
