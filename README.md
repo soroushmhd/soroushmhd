@@ -15,26 +15,36 @@ Senior DevOps & Linux Engineer with 10+ years of experience designing, automatin
 - Infrastructure Automation
 - Observability
 
-
 ---
 
-## 🚀 Open Source
+## 🚀 Open Source Contributions
 
-✔ Contributor to the official Zabbix Community Templates project.
+Contributor to the [Zabbix Community Templates](https://github.com/zabbix/community-templates) project.
 
-Merged contribution:
+### FortiAnalyzer by SNMP
 
-- Mattermost by HTTP Template
+A monitoring template for Zabbix 7.0 covering:
 
-Repository
+- System health, CPU, memory, and uptime
+- Log receiving, indexing, and volume metrics
+- ADOM and managed device discovery
+- Storage and disk I/O monitoring
+- HA scalar metrics
+- Configurable triggers, graphs, and an overview dashboard
 
-https://github.com/zabbix/community-templates/tree/main/Applications/template_mattermost_http/7.0
+[Community Template](https://github.com/zabbix/community-templates/tree/main/Network_Devices/Fortigate/template_fortianalyzer_by_snmp/7.0) · [Merged Pull Request #849](https://github.com/zabbix/community-templates/pull/849) · [Project Repository](https://github.com/soroushmhd/zabbix-fortianalyzer-snmp-template)
 
-Merged Pull Request
+### Mattermost by HTTP
 
-https://github.com/zabbix/community-templates/pull/744
+A Zabbix monitoring template covering:
 
----
+- API and website availability
+- Response times
+- Database metrics and WebSocket connections
+- Playbook activity
+- Trigger dependencies
+
+[Community Template](https://github.com/zabbix/community-templates/tree/main/Applications/template_mattermost_http/7.0) · [Merged Pull Request #744](https://github.com/zabbix/community-templates/pull/744) · [Project Repository](https://github.com/soroushmhd/mattermost-zabbix-template)
 
 ---
 
@@ -42,7 +52,7 @@ https://github.com/zabbix/community-templates/pull/744
 
 ### Production Zabbix HA Stack
 
-Highly Available Zabbix architecture including:
+A highly available Zabbix architecture including:
 
 - Patroni
 - PostgreSQL
@@ -50,13 +60,10 @@ Highly Available Zabbix architecture including:
 - Keepalived
 - HAProxy
 
-Repository:
-
-https://github.com/soroushmhd/production-zabbix-ha-stack
-
+[Project Repository](https://github.com/soroushmhd/production-zabbix-ha-stack)
 
 ---
 
 ## 📫 Contact
 
-www.linkedin.com/in/soroush-mehmandoust
+[LinkedIn](https://www.linkedin.com/in/soroush-mehmandoust/)
